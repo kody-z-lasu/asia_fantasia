@@ -21,6 +21,7 @@
   "author": "softserve",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.668.0",
     "express": "^4.17.1",
     "log4js": "^6.1.2"
   },
